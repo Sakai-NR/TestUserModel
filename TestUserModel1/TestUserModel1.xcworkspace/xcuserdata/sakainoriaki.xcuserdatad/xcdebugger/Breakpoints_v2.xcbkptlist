@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7B32857C-1F2C-4586-83CD-CEE3D11C9DBE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "TopViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076 - f1c0d98a273eacca"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.TopViewController.UserModels.getter : Swift.Array&lt;TestUserModel1.UserModel&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/TopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076 - 82787754bcc4b0c6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.TopViewController.UserModels.setter : Swift.Array&lt;TestUserModel1.UserModel&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/TopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076 - 3a062a673bfe25d7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.TopViewController.UserModels.modify : Swift.Array&lt;TestUserModel1.UserModel&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/TopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076 - aba65d1061aa04c7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.TopViewController.UserModels.modify : Swift.Array&lt;TestUserModel1.UserModel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/TopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076 - 7dfe03dda55aee34"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.TopViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TestUserModel1.TopViewController"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/TopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "F420CC93-5961-4AEC-89D3-76B65AF8E076 - ce2572c0eb989467"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.TopViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TestUserModel1.TopViewController&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/TopViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AF78E7B-7923-4D0C-AE61-F62D039DFA37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "loadView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1866AEE4-8A5F-46E0-8802-C964CA659E2E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49700F65-70F4-4778-97E0-715871AA37F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BCA79CB-9799-420F-BE3E-2951576B7CCF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A03A770-4FD2-4180-AEA2-8871ADA7A519"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DFD15A3-1B2F-43FF-8EC5-E282FB3A5316"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "touchedButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B657524A-8E7A-4ECE-931C-D4D1B1E6993C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09 - 2a274d8417ad0a52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.SecondViewController.UserModels.getter : Swift.Array&lt;TestUserModel1.UserModel&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09 - 1ebc2e492d132e26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.SecondViewController.UserModels.setter : Swift.Array&lt;TestUserModel1.UserModel&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09 - 6f28346bceed9357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.SecondViewController.UserModels.modify : Swift.Array&lt;TestUserModel1.UserModel&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09 - 9cacd27dd7c06a7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.SecondViewController.UserModels.modify : Swift.Array&lt;TestUserModel1.UserModel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09 - cfe79e67025c1db9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TestUserModel1.SecondViewController"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  uuid = "C7ECA8A9-79A4-4B1C-BF5F-219CDA353E09 - cc61269a2728e8e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestUserModel1.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TestUserModel1.SecondViewController&gt;"
+                  moduleName = "TestUserModel1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakainoriaki/workspace/TestUserModel/TestUserModel1/TestUserModel1/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "014F8434-B173-4FD1-B95F-7E1BD5289F72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/TopViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47055322-6CE8-4B5C-A155-D255D458E8C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestUserModel1/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

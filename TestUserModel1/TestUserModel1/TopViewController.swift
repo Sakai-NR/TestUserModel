@@ -12,6 +12,12 @@ import PGFramework
 
 // MARK: - Property
 class TopViewController: BaseViewController {
+        var UserModels: [UserModel] = []
+    @IBAction func touchedButton(_ sender: UIButton) {
+        let secondViewController = SecondViewController()
+        animatorManager.navigationType = .slide_pop
+        transitionViewController(from: self, to: secondViewController)
+    }
     
 }
 
@@ -19,6 +25,7 @@ class TopViewController: BaseViewController {
 extension TopViewController {
     override func loadView() {
         super.loadView()
+        
     }
     
     override func viewDidLoad() {
@@ -27,6 +34,14 @@ extension TopViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        let userModel1 = UserModel()
+        let userModel2 = UserModel()
+        userModel1.age = "20"
+        userModel2.id = "555"
+        
+        UserModels += [userModel1]
+        UserModels += [userModel2]
+        
     }
 }
 

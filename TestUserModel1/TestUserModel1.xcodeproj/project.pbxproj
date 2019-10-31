@@ -15,6 +15,9 @@
 		8FE8E4F2236B25E80031D624 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8FE8E4F0236B25E80031D624 /* LaunchScreen.storyboard */; };
 		8FE8E4FB236B264C0031D624 /* TopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE8E4F9236B264C0031D624 /* TopViewController.swift */; };
 		8FE8E4FC236B264C0031D624 /* TopViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FE8E4FA236B264C0031D624 /* TopViewController.xib */; };
+		8FE8E4FF236B27DF0031D624 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE8E4FD236B27DF0031D624 /* SecondViewController.swift */; };
+		8FE8E500236B27DF0031D624 /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8FE8E4FE236B27DF0031D624 /* SecondViewController.xib */; };
+		8FE8E502236B28B60031D624 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FE8E501236B28B60031D624 /* UserModel.swift */; };
 		AE0A33C8CF6D0D3623E7ACC1 /* Pods_TestUserModel1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E5887AA101AA020B0B07A7C3 /* Pods_TestUserModel1.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +34,9 @@
 		8FE8E4F3236B25E80031D624 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8FE8E4F9236B264C0031D624 /* TopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopViewController.swift; sourceTree = "<group>"; };
 		8FE8E4FA236B264C0031D624 /* TopViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TopViewController.xib; sourceTree = "<group>"; };
+		8FE8E4FD236B27DF0031D624 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		8FE8E4FE236B27DF0031D624 /* SecondViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondViewController.xib; sourceTree = "<group>"; };
+		8FE8E501236B28B60031D624 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 		E5887AA101AA020B0B07A7C3 /* Pods_TestUserModel1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestUserModel1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -85,6 +91,9 @@
 				8FE8E4EB236B25E70031D624 /* TestUserModel1.xcdatamodeld */,
 				8FE8E4F9236B264C0031D624 /* TopViewController.swift */,
 				8FE8E4FA236B264C0031D624 /* TopViewController.xib */,
+				8FE8E4FD236B27DF0031D624 /* SecondViewController.swift */,
+				8FE8E4FE236B27DF0031D624 /* SecondViewController.xib */,
+				8FE8E501236B28B60031D624 /* UserModel.swift */,
 			);
 			path = TestUserModel1;
 			sourceTree = "<group>";
@@ -161,6 +170,7 @@
 				8FE8E4F2236B25E80031D624 /* LaunchScreen.storyboard in Resources */,
 				8FE8E4EF236B25E80031D624 /* Assets.xcassets in Resources */,
 				8FE8E4EA236B25E70031D624 /* Main.storyboard in Resources */,
+				8FE8E500236B27DF0031D624 /* SecondViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,6 +226,8 @@
 				8FE8E4FB236B264C0031D624 /* TopViewController.swift in Sources */,
 				8FE8E4ED236B25E70031D624 /* TestUserModel1.xcdatamodeld in Sources */,
 				8FE8E4E3236B25E70031D624 /* AppDelegate.swift in Sources */,
+				8FE8E4FF236B27DF0031D624 /* SecondViewController.swift in Sources */,
+				8FE8E502236B28B60031D624 /* UserModel.swift in Sources */,
 				8FE8E4E5236B25E70031D624 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
