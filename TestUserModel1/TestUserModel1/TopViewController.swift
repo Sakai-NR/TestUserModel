@@ -15,6 +15,7 @@ class TopViewController: BaseViewController {
         var UserModels: [UserModel] = []
     @IBAction func touchedButton(_ sender: UIButton) {
         let secondViewController = SecondViewController()
+        secondViewController.UserModels = self.UserModels
         animatorManager.navigationType = .slide_pop
         transitionViewController(from: self, to: secondViewController)
         
