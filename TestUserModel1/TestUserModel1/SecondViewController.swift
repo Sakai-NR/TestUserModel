@@ -20,6 +20,7 @@ class SecondViewController: BaseViewController {
 extension SecondViewController {
     override func loadView() {
         super.loadView()
+        
     }
     
     override func viewDidLoad() {

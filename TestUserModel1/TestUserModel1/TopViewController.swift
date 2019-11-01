@@ -17,6 +17,7 @@ class TopViewController: BaseViewController {
         let secondViewController = SecondViewController()
         animatorManager.navigationType = .slide_pop
         transitionViewController(from: self, to: secondViewController)
+        
     }
     
 }
@@ -36,6 +37,7 @@ extension TopViewController {
         super.viewWillAppear(animated)
         let userModel1 = UserModel()
         let userModel2 = UserModel()
+        
         userModel1.age = "20"
         userModel2.id = "555"
         
